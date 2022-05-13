@@ -1,11 +1,11 @@
 {
 "arr1": [
   {
-    "albumId": 1,
-    "id": 1,
-    "title": "accusamus beatae ad facilis cum similique qui sunt",
-    "url": "https://via.placeholder.com/600/92c952",
-    "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+    "name": "Arm Day,
+    "duration": "30 min,
+    "ex1": "Bench, 3 sets",
+    "ex2": "Pushups, 5 sets",
+    "ex3": "Pullups, 3 sets"
   },
   {
     "albumId": 1,
