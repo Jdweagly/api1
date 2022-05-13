@@ -8,32 +8,32 @@
     "ex3": "Pullups, 3 sets"
   },
   {
-    "albumId": 1,
-    "id": 2,
-    "title": "reprehenderit est deserunt velit ipsam",
-    "url": "https://via.placeholder.com/600/771796",
-    "thumbnailUrl": "https://via.placeholder.com/150/771796"
+    "name": "Leg Day",
+    "duration": "65 min",
+    "ex1": "Leg stretch, 8 sets",
+    "ex2": "Deadlift, 5 sets",
+    "ex3": "Squat, 3 sets"
   },
   {
-    "albumId": 1,
-    "id": 3,
-    "title": "officia porro iure quia iusto qui ipsa ut modi",
-    "url": "https://via.placeholder.com/600/24f355",
-    "thumbnailUrl": "https://via.placeholder.com/150/24f355"
+    "name": "Cardio Day",
+    "duration": "45 min",
+    "ex1": "Hill sprints, 10 sets",
+    "ex2": "Mile run,  1 set",
+    "ex3": "Jumping jacks, 5 sets"
   },
   {
-    "albumId": 1,
-    "id": 4,
-    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-    "url": "https://via.placeholder.com/600/d32776",
-    "thumbnailUrl": "https://via.placeholder.com/150/d32776"
+    "name": "Swimming Day",
+    "duration": "60 min",
+    "ex1": "Backstroke, 3 laps",
+    "ex2": "Brick dive, 2 sets",
+    "ex3": "Freestyle, 5 laps"
   },
   {
-    "albumId": 1,
-    "id": 5,
-    "title": "natus nisi omnis corporis facere molestiae rerum in",
-    "url": "https://via.placeholder.com/600/f66b97",
-    "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    "name": "Pull Day",
+    "duration": "40 min",
+    "ex1": "Pullups,  5 sets",
+    "ex2": "Curls, 5 sets",
+    "ex3": "Rows, 8 sets"
   }
 ]
 }
